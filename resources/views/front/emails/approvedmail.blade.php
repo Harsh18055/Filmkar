@@ -1,0 +1,1 @@
+{{ $details['username'] }}, {{ $details['message'] }}
